@@ -1,0 +1,2 @@
+-- For lab 2 we were to create our Home Page, utilizing our Summary from week 1 and adding an image.
+-- As well as add the formatting provideed.
